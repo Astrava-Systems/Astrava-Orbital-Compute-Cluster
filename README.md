@@ -113,3 +113,8 @@ Orbital_Compute_Cluster/
    ```bash
    git clone git@github.com:astrava/Astrava-Cluster.git
    cd Astrava-Cluster
+
+2. Read the `vision.md` and `roadmap.md` in `00_OVERVIEW`.
+3. Open `01_ARCHITECTURE/system_design.md` for the system invariants
+4. To propose a change, open a Pull Request against a topic branch. 
+2. 
