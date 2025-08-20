@@ -96,17 +96,6 @@ Orbital_Compute_Cluster/
 
 ---
 
-## Roadmap — highlights
-1. **Phase 0 (Present)** — Architecture specs, AstravaOS demo integration, initial CAD + breadboards.  
-2. **Phase 1 (1–3 years)** — Single-module prototype: hub + deployable hex sail + replaceable compute core. Launch pathfinder(s).  
-3. **Phase 2 (3–6 years)** — Lattice formation: multiple modules link, cluster orchestration, petaflop→exaflop capability.  
-4. **Phase 3 (6–10 years)** — Zettaflop target: mix in advanced power modules, comms backbone, begin neuromorphic testbeds.  
-5. **Phase 4 (10+ years)** — Scale via asteroid-supplied materials; full civilization-scale infrastructure.
-
-(See `00_OVERVIEW/roadmap.md` for full timeline and milestones.)
-
----
-
 ## Getting started — for engineers and contributors
 1. Clone the repo:
    
@@ -117,4 +106,4 @@ Orbital_Compute_Cluster/
 2. Read the `vision.md` and `roadmap.md` in `00_OVERVIEW`.
 3. Open `01_ARCHITECTURE/system_design.md` for the system invariants
 4. To propose a change, open a Pull Request against a topic branch. 
-2. 
+   
