@@ -1,109 +1,45 @@
-<!-- SPDX-License-Identifier: ASYS-1.0 -->
-# Astrava — Orbital Compute Cluster
+# Orbital Compute Cluster
+*"We want to accelerate humanity's advancement."*
 
-**Status:** Concept → Architecture → Prototype  
-**Scope:** Modular, laser-meshed, self-maintaining orbital supercomputer  
-**Identity:** Astrava Systems — Cluster Division
+The Orbital Compute Cluster is Astrava’s first step toward building civilization-scale infrastructure in space.  
+It is designed as a scalable, modular supercomputer in orbit — optimized for breakthroughs in:
 
----
+- Material Science  
+- Drug Discovery  
+- AI Training & Simulation  
+- Large-scale Scientific Research  
 
-## TL;DR
-The Astrava Orbital Compute Cluster is a modular, hex-tiled constellation of self-powered compute modules designed to form a massively scalable, secure, and serviceable supercomputer in orbit. Each unit carries its own hexagon solar sail (power + structural frame) and a replaceable compute & laser core. Modules connect via high-bandwidth, per-edge laser links to form a resilient mesh. Robotic hubs perform maintenance and hot-swap of compute cores. The cluster is designed to be useful from the first module and to scale to thousands (and beyond) as launch capacity and resources grow.
-
----
-
-## Why this project exists
-- Earth-bound compute is energy-, cooling-, and space-limited.  
-- Placing compute in orbit gives abundant solar energy, vacuum cooling, and linear physical scalability.  
-- A modular, serviceable lattice reduces risk — failed compute cores are replaceable, and the network self-heals.  
-- The Cluster is the strategic revenue engine and technical backbone for Astrava’s broader civilizational projects (AI compute, simulation, and orbital infrastructure).
+This repository outlines the initial concepts, technical architecture, and roadmap for developing the cluster.
 
 ---
 
-## Core principles
-1. **Modularity first** — every unit is useful standalone and plugs into the lattice.  
-2. **Interface over internals** — standard Astrava-Bus interfaces (power & mechanical docking) decouple hardware generations.  
-3. **Compute-dominant** — ~90–95% compute units; the remainder are power, comms, robot hubs, fabrication, or habitat attachments.  
-4. **Optical data, power cable only** — all inter-module data transfers are laser optical; only power is cabled through the lattice.  
-5. **Serviceability** — compute cores are hot-swappable; robot hubs perform repair and assembly.  
-6. **Security & sovereignty** — hardware attestation, link-level crypto, and isolation domains by design.  
-7. **Generation-aware** — Gen V1 (conventional accelerators) → Gen V2 (neuromorphic) migration path is supported.
+## Why
+Human progress depends on computation. By moving large-scale compute into orbit, we bypass Earth’s limits on power, cooling, and scalability.  
+Astrava’s vision is to create the infrastructure that enables the next leap in science, medicine, and industry.
 
 ---
 
-## What this repo contains
-```bash
-Orbital_Compute_Cluster/
-│
-├── README.md # (this file)
-├── LICENSE # ASYS-1.0 short license (see repo root)
-│
-├── 00_OVERVIEW/
-│ ├── vision.md
-│ ├── roadmap.md
-│ └── key_principles.md
-│
-├── 01_ARCHITECTURE/
-│ ├── system_design.md
-│ ├── networking.md
-│ ├── modules.md
-│ └── attachment_and_station.md
-│
-├── 02_HARDWARE/
-│ ├── compute_modules.md
-│ ├── hex_sail.md
-│ ├── comms_optical.md
-│ ├── power_bus.md
-│ └── edge_docking_interface.md
-│
-├── 03_SOFTWARE/
-│ ├── cluster_management.md
-│ ├── actuation_controller.md
-│ └── AstravaOS_link.md
-│
-├── 04_OPERATIONS/
-│ ├── launch_plan.md
-│ ├── robot_ops.md
-│ └── scaling.md
-│
-├── manifests/
-│ └── module_manifest_example.yaml
-│
-├── visuals/ # diagrams, ASCII art, schematics
-└── docs/
-└── glossary.md
-```
+## Structure
+- `overview.md` – General introduction  
+- `architecture.md` – Module layout, interconnects, and design principles  
+- `conceptional_design.md` – Early technical concepts and trade-offs  
+- `roadmap.md` – Development phases  
 
 ---
 
-## Key architecture concepts (quick)
-- **Frame vs Payload**  
-  Each module has two logical parts:
-  - **Frame (permanent):** solar sail + docking/power bus + mechanical hardpoints. Long-lived in orbit.
-  - **Payload (replaceable):** compute & laser core — hot-swappable by robots.
-
-- **Laser Mesh**  
-  One optical transceiver per hex edge (up to 6). PAT (Pointing–Acquisition–Tracking) + WDM lanes allow multi-Gbps/Tbps per link. A low-rate RF fallback exists for safe bring-up only.
-
-- **Astrava-Bus (power)**  
-  Only power rails cross physical connections (hot-pluggable high-current blind-mate connectors with SSDs). All data is optical.
-
-- **Robotic Hubs**  
-  Small fraction of units that host 1–2 multi-joint manipulators. They assemble, replace, inspect, and rescue modules.
-
-- **Fault tolerance & self-healing**  
-  Mesh routing + robot-mediated physical replacement + per-node UPS and checkpointing make the cluster resilient to single or multi-node failures.
+## Current Phase
+We are building the **core team**. Engineers, researchers, and builders with expertise in aerospace, computing, and energy systems are invited to join.  
 
 ---
 
-## Getting started — for engineers and contributors
-1. Clone the repo:
-   
-   ```bash
-   git clone git@github.com:astrava/Astrava-Cluster.git
-   cd Astrava-Cluster
+## Contact
+📧 Email: placeholder@astrava.space  
+🐦 X/Twitter: @AstravaSpace (placeholder)  
+▶️ YouTube: Astrava (placeholder)  
 
-2. Read the `vision.md` and `roadmap.md` in `00_OVERVIEW`.
-3. Open `01_ARCHITECTURE/system_design.md` for the system invariants
-4. To propose a change, open a Pull Request against a topic branch. 
-   
+---
+
+## License
+This project uses the **AOL-1.0 License**.  
+You are free to share, adapt, and build upon these ideas — with attribution.
+
