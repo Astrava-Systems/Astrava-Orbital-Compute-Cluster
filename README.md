@@ -1,47 +1,32 @@
-# Orbital Compute Cluster
-*"We want to accelerate humanity's advancement."*
+# Astrava Orbital Compute Cluster
 
-The Orbital Compute Cluster is Astrava’s first step toward building civilization-scale infrastructure in space.  
-It is designed as a scalable, modular supercomputer in orbit — optimized for breakthroughs in:
+**We are building humanity's first orbital AI supercomputer.**
 
-- Material Science  
-- Drug Discovery  
-- AI Training & Simulation  
-- Large-scale Scientific Research  
+Astrava's Orbital Compute Cluster is a civilization-scale initiative to accelerate scientific discovery and the development of artificial intelligence. By leveraging the unique advantages of space—unlimited solar energy, a perfect vacuum, and extreme cold for radiative cooling—we are designing a modular supercomputer that can scale far beyond what is possible on Earth.
 
-This repository outlines the initial concepts, technical architecture, and roadmap for developing the cluster.
+This project will serve as humanity's first large-scale scientific and AI hub in orbit, tackling problems that require zettaflop-scale compute power, from large-scale material simulations to exascale drug discovery.
 
 ---
 
-## Why
-Human progress depends on computation. By moving large-scale compute into orbit, we bypass Earth’s limits on power, cooling, and scalability.  
-Astrava’s vision is to create the infrastructure that enables the next leap in science, medicine, and industry.
+### **Long-Term Vision**
+Our vision is to build a scalable, resilient compute infrastructure in space, a hub for humanity's most ambitious projects. This repository documents our journey from concept to design and, eventually, to orbital deployment.
 
 ---
 
-## Structure
-- `overview.md` – General introduction  
-- `architecture.md` – Module layout, interconnects, and design principles  
-- `conceptional_design.md` – Early technical concepts and trade-offs  
-- `roadmap.md` – Development phases  
+### **Repository Structure**
+* `README.md`: This file.
+* `docs/`: Our mission, roadmap, and team-building goals.
+* `design/`: The core conceptual and architectural design of the cluster.
+* `visuals/`: Placeholder for diagrams and renders.
+* `LICENSE`: The license for this project.
 
 ---
 
-## Current Phase
-We are building the **core team**. Engineers, researchers, and builders with expertise in aerospace, computing, and energy systems are invited to join.  
+### **Current Phase: Concept & Team-Building**
+We are currently in the foundational phase of this project, refining the conceptual design and building a core team of visionaries and builders. This is an open-source initiative, and your contributions are welcome.
 
 ---
 
-## Contact
-📧 Email: astrava.contact@proton.me  
-
-🐦 X/Twitter: @AstravaSpace 
-
-▶️ YouTube: [Astrava](https://youtube.com/@astrava-space?si=QYLw6KM2NezdOW8b)
-
----
-
-## License
-This project uses the **ASYS-1.0 License**.  
-You are free to share, adapt, and build upon these ideas — with attribution.
-
+### **Contact**
+* Email: [placeholder@astrava.com]
+* Socials: [@astravacorp]
