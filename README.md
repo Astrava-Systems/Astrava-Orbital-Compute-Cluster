@@ -34,7 +34,9 @@ We are building the **core team**. Engineers, researchers, and builders with exp
 
 ## Contact
 📧 Email: astrava.contact@proton.me  
+
 🐦 X/Twitter: @AstravaSpace 
+
 ▶️ YouTube: [Astrava](https://youtube.com/@astrava-space?si=QYLw6KM2NezdOW8b)
 
 ---
