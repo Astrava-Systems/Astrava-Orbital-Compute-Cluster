@@ -33,13 +33,13 @@ We are building the **core team**. Engineers, researchers, and builders with exp
 ---
 
 ## Contact
-📧 Email: placeholder@astrava.space  
-🐦 X/Twitter: @AstravaSpace (placeholder)  
-▶️ YouTube: Astrava (placeholder)  
+📧 Email: astrava.contact@proton.me  
+🐦 X/Twitter: @AstravaSpace 
+▶️ YouTube: [Astrava](https://youtube.com/@astrava-space?si=QYLw6KM2NezdOW8b)
 
 ---
 
 ## License
-This project uses the **AOL-1.0 License**.  
+This project uses the **ASYS-1.0 License**.  
 You are free to share, adapt, and build upon these ideas — with attribution.
 
