@@ -1,10 +1,10 @@
 # Astrava Orbital Compute Cluster
 
-**We are building humanity's first orbital AI supercomputer.**
+**We are building humanity's first modular, solar-powered supercomputer in orbit.**
 
 The Orbital Compute Cluster is a civilization-scale initiative to accelerate scientific discovery and the development of artificial intelligence. By leveraging the unique advantages of space—unlimited solar energy, a perfect vacuum, and extreme cold for radiative cooling—we are designing a modular supercomputer that can scale far beyond what is possible on Earth.
 
-This project will serve as humanity's first large-scale scientific and AI hub in orbit, tackling problems that require zettaflop-scale compute power, from large-scale material simulations to exascale drug discovery.
+This project will serve as humanity's first large-scale scientific and AI hub in orbit, tackling problems that require massive compute power, from large-scale material simulations to exascale drug discovery.
 
 ---
 
