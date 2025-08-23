@@ -28,6 +28,6 @@ Your creativity and dedication are just as essential as code.
 
 This is your chance to be a part of something historic. If you're ready to build the future with us, join our community on Discord.
 
-**[Join the Astrava Discord](https://discord.gg/your-discord-link)**
+**[Join the Astrava Discord](https://discord.gg/zZzT66de)**
 
 We can't wait to build with you.
