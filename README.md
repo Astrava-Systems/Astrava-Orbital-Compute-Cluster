@@ -35,7 +35,7 @@ Our journey begins here, in the pre-founding phase. The goal is to build a missi
 
 This project is an open call to all visionaries, creators, and engineers who believe we can build a better future. We invite you to explore our vision, contribute your ideas, and help us turn this concept into a reality.
 
-**[Read our Team Invitation to learn more about how to join the mission.](../team_invitation.md)**
+**[Read our Team Invitation to learn more about how to join the mission.](./docs/team_invitation.md)**
 
 ---
 
