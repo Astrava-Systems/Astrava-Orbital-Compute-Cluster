@@ -35,10 +35,10 @@ Our journey begins here, in the pre-founding phase. The goal is to build a missi
 
 This project is an open call to all visionaries, creators, and engineers who believe we can build a better future. We invite you to explore our vision, contribute your ideas, and help us turn this concept into a reality.
 
-**[Read our Team Invitation to learn more about how to join the mission.](https://github.com/Astrava-Systems/Astrava/blob/main/team_invitation.md)**
+**[Read our Team Invitation to learn more about how to join the mission.](../team_invitation.md)**
 
 ---
 
-**[Join our Discord Community](https://discord.gg/your-discord-link)**
+**[Join our Discord Community](https://discord.gg/zZzT66de))**
 
 © Astrava Systems. Licensed under [ASYS-1.0](./LICENSE).
