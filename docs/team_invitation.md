@@ -1,13 +1,33 @@
-# You Can Build the Impossible. We Need You.
+# A Personal Invitation to the Astrava Mission
 
-This is not a traditional job application. We are looking for people who are driven by a bold, audacious vision. If you have the expertise to solve problems that have never been tackled before and the passion to build humanity’s first large-scale supercomputer in space, we want to hear from you.
+**A note from the founder:**
 
-Our project requires expertise in:
+Welcome. My name is [Your name], and I'm a 16-year-old with a vision for humanity's future in space. When you read about this project, you'll see a mission that sounds ambitious and maybe even a little crazy. That’s because it is. But I believe that the greatest challenges are the ones that are truly worth solving.
 
-* **Space Systems Engineering**: For orbital mechanics, structural design, and thermal dynamics.
-* **Nuclear & Mechanical Engineering**: For the design and operation of the "seed module" and overall structural integrity.
-* **High-Performance Computing & OS Design**: To develop a new OS that can manage a zettaflop-scale, distributed system.
-* **Robotics & Autonomous Systems**: For assembly and maintenance in orbit.
-* **Advanced Material Science**: To create components that can withstand the extreme conditions of space.
+This project is in its **pre-founding phase**. This means we are building the core technology concepts and assembling the founding team. We are not yet a company with a salary; we are a movement built on a shared passion for a better future. This is a call for true believers.
 
-If you are a visionary problem-solver, reach out and help us build the future.
+If you are driven by a purpose larger than yourself and want to be a part of the journey from the very beginning, we want you on our team.
+
+---
+
+### **Who We Are Looking For**
+
+We are looking for people who are passionate about our mission, no matter their skillset. We need thinkers, creators, and doers.
+
+* **Engineers & Scientists:** Help us refine our concepts for thermal management, power distribution, robotics, and more.
+* **Coders:** Help us conceptualize `AstravaOS`, our self-managing orbital operating system.
+* **3D Artists & Animators:** Help us bring our vision to life with stunning visuals and animations for our YouTube videos and social media.
+* **Graphic Designers & Writers:** Help us create clear, powerful documentation and build our brand.
+* **Visionaries:** If you have big ideas about space, technology, or the future, we want to hear them.
+
+Your creativity and dedication are just as essential as code.
+
+---
+
+### **Ready to Join?**
+
+This is your chance to be a part of something historic. If you're ready to build the future with us, join our community on Discord.
+
+**[Join the Astrava Discord](https://discord.gg/your-discord-link)**
+
+We can't wait to build with you.
