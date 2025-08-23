@@ -2,7 +2,7 @@
 
 **A note from the founder:**
 
-Welcome. My name is [Your name], and I'm a 16-year-old with a vision for humanity's future in space. When you read about this project, you'll see a mission that sounds ambitious and maybe even a little crazy. That’s because it is. But I believe that the greatest challenges are the ones that are truly worth solving.
+Welcome. My name is Matteo, and I'm a 16-year-old with a vision for humanity's future in space. When you read about this project, you'll see a mission that sounds ambitious and maybe even a little crazy. That’s because it is. But I believe that the greatest challenges are the ones that are truly worth solving.
 
 This project is in its **pre-founding phase**. This means we are building the core technology concepts and assembling the founding team. We are not yet a company with a salary; we are a movement built on a shared passion for a better future. This is a call for true believers.
 
