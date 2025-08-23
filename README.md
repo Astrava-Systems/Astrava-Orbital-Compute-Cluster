@@ -1,32 +1,44 @@
-# Astrava Orbital Compute Cluster: Building Humanity's First Off-Planet Infrastructure
+# Astrava: Humanity's First Modular Orbital Compute Cluster
 
-**The Orbital Compute Cluster is a civilization-scale initiative by Astrava-Systems to build humanity's first large-scale AI and scientific acceleration hub in space. We are not just creating a supercomputer; we are pioneering a new frontier of human capability.**
-
-On Earth, compute is constrained by power grids, cooling infrastructure, and physical land. In orbit, we find a canvas of unlimited solar energy, a perfect vacuum for passive cooling, and the freedom to build without terrestrial limits. Astrava is a mission to unlock this potential, creating a modular, autonomous, and infinitely scalable supercomputing platform.
-
-Our work will serve as the engine for breakthroughs in artificial intelligence, accelerate cures for diseases through exascale drug discovery, and model the future of our planet with unprecedented fidelity. We are building the computational backbone for a better, more intelligent future for all of humanity.
+**The mission is simple: to build a scalable, sustainable, and powerful computing infrastructure in orbit, powered entirely by the sun. Astrava will provide the essential compute for solving humanity's greatest challenges and enabling our expansion into space.**
 
 ---
 
-### **Vision & Mission**
-Our mission is to build the world's most powerful and resilient compute cluster by pioneering a new orbital infrastructure. This project is for those who believe in audacious goals and the power of technology to solve humanity's greatest challenges.
+### **The Challenge**
+
+As humanity pushes the boundaries of AI, research, and space exploration, the demand for computing power is growing exponentially. Traditional data centers are resource-intensive and face physical limitations on Earth. We need a new solution.
+
+### **The Solution: Astrava**
+
+Astrava is a revolutionary approach to orbital compute. Instead of building a single, monolithic station, we are designing a self-assembling cluster of modular hexagonal plates.
+
+**Key features of the Astrava concept:**
+
+* **Modular & Scalable:** The cluster grows by adding more hexagonal plates, which are autonomous, self-powering, and robotic.
+* **Solar Powered:** Each module is equipped with solar panels, making the entire system sustainable and independent of terrestrial power grids.
+* **Autonomous & Resilient:** The cluster will manage itself, perform maintenance, and grow without the need for human intervention.
+* **Beyond Earth:** By moving compute into space, we can reduce latency for orbital operations and free up valuable energy and resources on Earth.
 
 ---
 
-### **Repository Structure**
-* `README.md`: Your introduction to Astrava's vision.
-* `docs/`: In-depth documents on our mission, business strategy, and roadmap.
-* `design/`: The core conceptual and architectural design of the cluster.
-* `visuals/`: Placeholder for diagrams and renders that illustrate our vision.
-* `LICENSE`: Our commitment to an open and collaborative foundation.
+### **Roadmap & Vision**
+
+Our journey begins here, in the pre-founding phase. The goal is to build a mission so compelling that we can attract the talent and resources to make it a reality.
+
+1.  **Phase I: Community & Vision (Pre-Founding)** - Define the core mission, business model, and technology concepts. Build a passionate community of collaborators.
+2.  **Phase II: Design & Prototype** - Develop detailed technical designs, engineering concepts, and 3D models.
+3.  **Phase III: Founding** - Formally establish the company and secure initial funding.
 
 ---
 
-### **Current Phase: Concept & Team-Building**
-We are actively seeking collaborators and partners to join us in the foundational phase of this journey. We're looking for visionary thinkers and skilled builders who are ready to make history.
+### **Join the Mission**
+
+This project is an open call to all visionaries, creators, and engineers who believe we can build a better future. We invite you to explore our vision, contribute your ideas, and help us turn this concept into a reality.
+
+**[Read our Team Invitation to learn more about how to join the mission.](https://github.com/Astrava-Systems/Astrava/blob/main/team_invitation.md)**
 
 ---
 
-### **Contact**
-* **Inquiries & Partnerships**: [placeholder@astrava.com]
-* **Follow Our Progress**: [@astravacorp]
+**[Join our Discord Community](https://discord.gg/your-discord-link)**
+
+© Astrava Systems. Licensed under MIT.
