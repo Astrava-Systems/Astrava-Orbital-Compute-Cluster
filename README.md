@@ -39,6 +39,7 @@ This project is an open call to all visionaries, creators, and engineers who bel
 
 ---
 
-**[Join our Discord Community](https://discord.gg/zZzT66de))**
+### **[Join our Discord Community](https://discord.gg/zZzT66de)**
+
 
 © Astrava Systems. Licensed under [ASYS-1.0](./LICENSE).
