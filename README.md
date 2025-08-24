@@ -39,7 +39,12 @@ This project is an open call to all visionaries, creators, and engineers who bel
 
 ---
 
-### **[Join our Discord Community](https://discord.gg/zZzT66de)**
+### **Contacts**
 
+- X(Twitter): https://x.com/AstravaSpace
+- Youtube: https://www.youtube.com/@Astrava-Systems
+- E-Mail: astrava.contact@proton.me 
+
+---
 
 © Astrava Systems. Licensed under [Apache-2.0 license](./LICENSE).
