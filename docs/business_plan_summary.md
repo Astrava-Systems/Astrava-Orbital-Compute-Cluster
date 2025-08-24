@@ -16,8 +16,8 @@ Astrava is creating a new market for extreme-scale compute, targeting problems t
 Our business model is built on two pillars: a high-margin, proprietary product and a stable, service-based revenue stream.
 
 * **In-House R&D & Licensing:** Our primary focus is the development of an advanced **Simulation AI**. This AI will autonomously "invent" and refine simulation approaches far faster than any human or current system. We will use this AI to develop and license new drugs and materials ourselves, capturing a much larger share of the value created by our technology.
-* **Compute-as-a-Service (CaaS):** We will sell excess compute time on the cluster to key partners and agencies. Our ideal clients include organizations like the European Space Agency (ESA) for applications like weather modeling and natural disaster detection, which require immense computational power and data processing speed.
-
+* **Compute-as-a-Service (CaaS):** We will sell excess compute time on the cluster to key partners and agencies.
+  
 ---
 
 ### 3. Competitive Advantage: A New Paradigm
