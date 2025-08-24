@@ -1,21 +1,35 @@
-# Scaling Plan: From Launch to Exaflop
+# Scaling Plan
 
-Our scaling strategy is designed to be phased, modular, and resilient.
-
----
-
-### **Phase 1: The Initial Launch**
-The first deployment will consist of a single solar-powered compute module. This unit will provide the initial compute power necessary for our first projects and serve as the foundation for all future expansion.
+Astrava is designed to start small and grow exponentially. Our scaling plan is defined by a phased approach that mitigates risk and optimizes for cost-effective deployment.
 
 ---
 
-### **Phase 2: Exponential Growth**
-Once the first module is operational, we will begin a continuous deployment of additional solar-powered compute modules. These units will dock onto the hexagon panels of existing modules, expanding the cluster in a self-similar, fractal-like pattern.
+## The Minimum Viable Cluster (MVC)
 
-* Each new module adds its own power source (the 25m hexagon panel) and compute capacity, contributing to the overall mesh network.
-* The laser networking system is designed for this exponential growth, allowing new modules to seamlessly integrate into the network without major reconfiguration.
+The smallest functional Astrava cluster will consist of three essential modules:
+
+1.  A **Seed Module**: This module provides initial pathfinding, communication with Earth, and core operational software.
+2.  A **Robotic Hub**: This unit is responsible for assembling and maintaining the cluster.
+3.  A **Computing Core**: This first core, attached to its own Hexagon Plate, represents the initial processing power of the cluster.
+
+While this MVC would have limited power, it proves the core concept and sets the stage for future expansion.
 
 ---
 
-### **Phase 3: Reaching the Exaflop Range**
-By continuously adding modules, the cluster will scale to the multi-exaflop range. This strategy ensures that we can meet growing demand by expanding our capacity incrementally, without the need for massive, single-launch deployments.
+## Launch and Assembly Strategy
+
+All parts of the Astrava cluster will be prefabricated on Earth. The launch strategy is designed to be highly efficient:
+
+1.  **Phase 1: Hexagon Deployment:** The initial launches will primarily focus on deploying the Hexagon Units. Because they require more volume, a single rocket can deliver a few at a time.
+2.  **Phase 2: Modular Expansion:** Subsequent launches will deliver a higher density of computing and other specialized modules. A single rocket could carry multiple computing cores, which will then autonomously attach to the pre-deployed Hexagon Units.
+
+This approach allows the cluster to expand over time, avoiding the high cost and risk of launching a single, massive structure.
+
+---
+
+## Future Growth
+
+The Astrava cluster is designed for long-term growth. Future scaling will be enabled by:
+
+* **Component Upgrades:** As new chip architectures and hardware become available, newer, more powerful modules can be launched and swapped in by the Robotic Hubs.
+* **Expanding the Ecosystem:** The ultimate goal is to have a cluster with hundreds/thousends of modules, providing a massive, globally-accessible supercomputer in space. This will unlock capabilities that are not possible on Earth, such as real-time, ultra-fast data processing for space exploration.
