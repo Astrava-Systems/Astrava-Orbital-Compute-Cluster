@@ -1,23 +1,25 @@
-# Conceptual Design: An Ecosystem of Compute
+# Conceptual Design: An Orbital Ecosystem
 
-The Orbital Compute Cluster is built as a highly resilient and autonomous ecosystem, where each unit is both a contributor and a caretaker.
-
----
-
-### **The Hexagon Plate: A Unified Foundation**
-Every unit begins with a **25-meter hexagonal solar plate**. This is far more than just a power source; it is the core structural element. It contains:
-* **Solar Collection**: A highly efficient photovoltaic surface that collects direct, uninterrupted solar energy.
-* **Power & Data Bus**: A standardized, unified bus system that provides power and high-speed data connections to all attached modules.
-* **Docking Ports**: A system of docking ports and structural supports for attaching other modules.
+Astrava is not merely a collection of hardware; it is designed as a self-sustaining **orbital ecosystem**. This concept guides all design decisions, from the physical structure to the operational philosophy.
 
 ---
 
-### **The Computing & Robotic Modules**
-Attached to the hexagon plate are two types of specialized modules, with a target ratio of 95% compute to 5% robotics.
-* **Computing Modules**: These self-contained units house the processors and memory. **Chip-to-chip** communication within a module is handled by **optical fiber** for maximum speed.
-* **Robotic Hubs**: A small percentage of the units will contain specialized robotic hubs. These hubs, similar to the multi-armed robots on the ISS, will handle the maintenance and assembly of the cluster.
+## Form Follows Function
+
+The cluster's physical design is based on the hexagonal honeycomb structure. This pattern provides unparalleled structural stability, efficient use of space, and a naturally scalable framework. The appearance is a direct result of its modular and decentralized nature, emphasizing its organic, evolving form rather than a monolithic design.
 
 ---
 
-### **Autonomy & Upgradability**
-The cluster is designed for full autonomy. When a new compute module is launched, the robotic hubs will autonomously capture and dock it to a hexagon plate. When a module needs an upgrade or repair, the robots will simply detach it and replace it with a new one. This ensures the cluster can evolve continuously without human intervention, making it truly a future-proof system.
+## The Roles of the Ecosystem
+
+Within the Astrava ecosystem, each component has a defined role:
+
+* **Hexagon Plates** are the lifeblood, providing power and a stable base for the entire structure.
+* **Robotic Hubs** are the maintainers and builders, autonomously adding new modules, performing repairs, and ensuring the health of the cluster.
+* **Computing Cores** are the "brains" of the ecosystem, dedicated to high-performance tasks like complex simulations, advanced AI training, and scientific projects such as drug discovery.
+
+---
+
+## The Core Product
+
+Astrava's core business model is to provide a powerful computing service to a variety of clients. Internally, the company will conduct its own highly-complex simulations and research. This internal intellectual property (IP) will then be licensed to external partners, creating a unique revenue model and ensuring a constant feedback loop for improving the cluster's capabilities.
