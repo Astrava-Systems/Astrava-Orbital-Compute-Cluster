@@ -2,42 +2,38 @@
 
 The Astrava Orbital Computing Cluster is built upon a highly modular, scalable, and resilient architecture. The core principle is a decentralized system of interconnected units, allowing for easy expansion, repair, and mission-specific reconfiguration in a hostile orbital environment.
 
----
+## The Astrava Unit: The Foundational Building Block
+The cluster is composed of individual Astrava Units. Each Unit contains two primary components: a Hexagon Platform and a Docking Module. This architecture separates the long-lasting structural components from the modular, replaceable components.
 
-## The Hexagonal Unit: The Foundation
-
-Each Hexagonal Unit serves as the foundational building block of the cluster. These units are designed with two primary functions:
-
-* **Structural and Docking Interface:** The six sides of the hexagon provide secure, standardized docking points for other units and modules. This universal interface ensures flexibility and allows for the creation of complex, interconnected structures. The cluster will have a honeycomb-like shape.
-* **Energy and Data Conduit:** The units are equipped with a hexagonal solar panel array to generate power and internal connections to distribute that power and data throughout the cluster. This design eliminates the need for a single, centralized power source and provides redundancy.
+The deployment of these components is also modular. New units arrive split, meaning one rocket can carry multiple Hexagon Platforms and another rocket can carry multiple Computing Modules. The modules are then autonomously docked to the platforms in orbit, allowing for on-demand expansion and maintenance.
 
 ---
 
-## Modular Components
+## The Hexagon Platform: The Backbone
+Each Hexagon Platform serves as the core backbone of an Astrava Unit. It is a durable, long-lasting component with a dual function:
 
-Various modules can autonomously or robotically dock onto the Hexagonal Units, each serving a specific function:
+- **Power & Protection:** The platform's sun-facing side is a large solar panel. The platform itself provides a crucial shadow on its reverse side, protecting the sensitive electronic modules docked there from direct sunlight.
 
-* **Computing Core:** These modules contain the primary processing hardware for tasks like simulations, AI training, and drug discovery. They are designed to be swapped in or out easily, enabling upgrades or replacements without affecting the rest of the cluster.
-* **Robotic Hub:** These modules house robotic arms for automated assembly, maintenance, and module replacement. They are strategically placed throughout the cluster to ensure every unit is within reach for servicing.
-* **Specialized Modules:** The architecture is flexible enough to accommodate future modules for tasks like advanced data storage, communication arrays, or scientific instruments.
-
----
-
-## Communication
-
-Within the cluster, all computing modules communicate with each other using a high-bandwidth, low-latency mesh network. Each Computing Core is equipped with six lasers that face other cores, ensuring a robust and redundant communication system.
+- **Structure & Docking:** The six outer sides of the hexagon provide secure, standardized docking ports. This allows other entire Astrava Units to connect, forming a large, interconnected honeycomb-like structure.
 
 ---
 
-## Power
+## The Docking Module: The Functional Components
+These modules attach to the shaded side of a Hexagon Platform. They receive power directly from the platform and are designed to be replaced or upgraded over time. There are a few types of modules:
 
-The entire power consumption of the cluster is provided by the individual Hexagon Plates, which act as high-efficiency solar panels. This decentralized power system ensures that even if one unit is damaged, the rest of the cluster can continue to operate.
+- **Computing Module:** These contain the primary processing hardware for tasks like simulations and AI training. Each Computing Module is equipped with high-speed lasers for communication, creating a low-latency, high-bandwidth mesh network between adjacent modules.
+
+- **Robotic Hub:** This module houses robotic arms for automated assembly, maintenance, and module replacement.
+
+- **Communication Module:** This module handles communication with Earth and other off-cluster entities.
 
 ---
 
-## Scalability and Resilience
+## Scalability, Resilience, and Network Design
+This modular, hexagonal approach provides three key benefits:
 
-This modular, hexagonal approach provides two key benefits:
+- **Scalability:** The cluster can grow incrementally by adding more Hexagonal Units and Computing Cores. This "add-on" approach avoids the need for a single, massive piece of hardware. New units can dock onto the six sides of an existing Hexagon Platform, allowing for continuous, on-demand expansion.
 
-* **Scalability:** The cluster can grow incrementally by simply adding more Hexagonal Units and Computing Cores. This "add-on" approach avoids the need to launch a single, massive piece of hardware.
-* **Resilience and Repairability:** A damaged unit or module can be isolated and swapped out by a Robotic Hub with minimal disruption to the overall cluster. This decentralized design prevents a single point of failure from crippling the entire system.
+- **Resilience and Repairability:** A damaged unit or module can be isolated and swapped out by a Robotic Hub with minimal disruption to the overall cluster. This decentralized design prevents a single point of failure from crippling the entire system.
+
+- **Network Design:** The data network is entirely separate from the power and structure. It is a decentralized, laser-based mesh network only between the Computing Modules. The Hexagon Platforms handle all power and structural integrity, while the modules handle all computation and communication.
