@@ -4,7 +4,7 @@ The development of the Orbital Compute Cluster is a phased, long-term effort tha
 
 ---
 
-### **Phase 1: Foundational Development (Current - 2027)**
+### **Phase 1: Foundational Development (Current - 2027+)**
 Our primary focus is on turning the vision into a viable business.
 * **Architectural Finalization**: We will use this period to refine the core design of our solar units, compute modules, and the self-healing laser network. This includes detailed modeling of thermal management and power systems.
 * **Core Team & Strategic Partnerships**: We will assemble a small, dedicated team of experts in aerospace, robotics, and computing. Simultaneously, Astrava-Systems will secure partnerships with launch providers and key technology suppliers.
@@ -12,7 +12,7 @@ Our primary focus is on turning the vision into a viable business.
 
 ---
 
-### **Phase 2: Engineering & Prototype (2027-2030)**
+### **Phase 2: Engineering & Prototype (2027-2030+)**
 This phase is about proving the technology and preparing for orbital deployment.
 * **Ground-Based Prototype**: We will build and test a full-scale prototype of a single compute unit, including the unfurling of the 25-meter solar plate and the integration of a robotic maintenance arm. This will validate our core design principles.
 * **AstravaOS Alpha Development**: Our team will begin development on the alpha version of AstravaOS, focusing on the core unified-chip architecture and hardware-based security protocols.
