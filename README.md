@@ -49,8 +49,10 @@ This project is an open call to all visionaries, creators, and engineers who bel
 
 ### **Note**
 
-This repository currently contains a **concept sketch** of the system.  
-More detailed materials (design notes, diagrams, research) are being prepared and will be released in a dedicated repository soon.
+This repository shows the **initial principle concept**.  
+
+A more detailed version is currently in development and will be available soon.
+ 
 
 ---
 
